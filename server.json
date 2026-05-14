@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/repology",
+  "title": "Repology",
+  "description": "Repology cross-distro package version aggregator",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/repology",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-repology",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/repology/mcp"
+    }
+  ]
+}
