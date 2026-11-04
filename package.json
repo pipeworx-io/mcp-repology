@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-repology",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Repology MCP — cross-distro package version aggregator.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "repology",
     "gatewaySlug": "repology",
-    "sourceHash": "v1-ec0638af0420e95e6b5dfc318bd832f52ced6f85ca43b2f2f8868dead6fc5b1b",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-7c81e0e8d2f8ac7f1f037b7fa2e202f94f4a0544d0a7a20a5e91e1f782368139",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
